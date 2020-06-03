@@ -13,4 +13,5 @@ vim .env
 (Apretar a, editar y para guardar :wq)
 
 sudo service docker start
+
 docker-compose up
