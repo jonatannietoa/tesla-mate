@@ -14,6 +14,8 @@ cd teslamate
 vim .env
 (Apretar a, editar y para guardar :wq)
 
+sudo reboot
+
 sudo service docker start
 
 docker-compose up
